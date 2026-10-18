@@ -1,0 +1,6 @@
+{
+  "name": "Dik Üçgen Hipotenüs ve Alan Hesaplayıcı",
+  "description": "Dik üçgende hipotenüs hesaplama, Heron formülü ile üçgen alanı bulma ve Java kaynak kodları. Enes Öztürk imzalı ödev çözümü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
